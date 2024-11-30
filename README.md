@@ -1,8 +1,7 @@
 # ML-Workflow-Design
 
 This repository contains the code file for the Academic Project "Illuminating the Path: A Machine Learning Approach to Traffic Light Object Detection".
-
-
+To monitor the training process the details are available in Codefile/Traffic Light Detection.ipynb
 
 ## Steps to run the application
 
