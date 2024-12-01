@@ -11,3 +11,6 @@ To monitor the training process the details are available in Code file/Traffic L
 3. Run the app.py file
 4. It will prompt you to upload an image
 5. After uploading the image, hit "predict" and it will give the prediction followed by the image
+
+### Alternative Application
+1. Follow the above steps with files from this repository [https://github.com/holahmide/ML-Workflow-Course](url)
